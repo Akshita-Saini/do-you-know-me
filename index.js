@@ -36,7 +36,7 @@ function play(question, answer)
 
 var questions = [
   {
-    question:"Do I prefer to read or to watch? ",
+    question:"Do I prefer to read novels or to watch movies? ",
     answer:"read"
   },
   {
@@ -52,7 +52,7 @@ var questions = [
     answer:"tomato"
   },
   {
-    question:"Do I have a get dank memes? ",
+    question:"Do I get dank memes? ",
     answer:"yes"
   }
 ]
